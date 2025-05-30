@@ -18,7 +18,6 @@
 - 📚 [Sena -> Software Analysis and Development] [Campuslands -> Backend Technical Developer] 
 - 🗣️ Languages: Spanish (Native) | English (Intermediate) 
 - 📍 Cúcuta - Norte de Santander - Colombia 
-- 🍔 I love fast food, 🏋🏻‍♂️ I love going to the gym, 🏠 I love spending time with my family and my girlfriend 👩‍❤️‍👨.
 
 <p align="center">
   <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="180px" height="70px"></picture><br>
