@@ -15,7 +15,8 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
 - 🧑🏻‍💻 I'm a `Junior Developer` with aspirations to be the best `Full-Stack Senior Developer` in Colombia.
-- 📚 [Sena -> Software Analysis and Development] [Campuslands -> Backend Technical Developer] [UNAD -> Systems Engineering]
+- 📚 [Sena -> Software Analysis and Development] [Campuslands -> Backend Technical Developer] 
+      [UNAD -> Systems Engineering]
 - 🗣️ Languages: Spanish (Native) | English (Intermediate) 
 - 📍 Cúcuta - Norte de Santander - Colombia 
 
@@ -23,8 +24,8 @@
   <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="180px" height="70px"></picture><br>
   <a href="https://wa.me/573142797427"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
   <a href="https://www.instagram.com/jhoanw5/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jhoan-balta/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jhoans5.ing@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/jhoan-dev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jhoans5.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://open.spotify.com/user/31lqtbd7cd52w2wnid54ettzxqma?si=6b2df3c09c9f483c"><img src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white"/></a>
 </p>
 
