@@ -14,8 +14,8 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
-- 🧑🏻‍💻 I'm a `Junior Developer` with aspirations to be the best `Senior Developer` in Colombia.
-- 📚 [Sena -> Software Analysis and Development] [Campuslands -> Backend Technical Developer] 
+- 🧑🏻‍💻 I'm a `Junior Developer` with aspirations to be the best `Full-Stack Senior Developer` in Colombia.
+- 📚 [Sena -> Software Analysis and Development] [Campuslands -> Backend Technical Developer] [UNAD -> Systems Engineering]
 - 🗣️ Languages: Spanish (Native) | English (Intermediate) 
 - 📍 Cúcuta - Norte de Santander - Colombia 
 
@@ -35,18 +35,13 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=white)
-
-#### Frontend
-![HTML5](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%23663399?style=flat&logo=CSS)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white)
 
 #### Frameworks & Libraries
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=React&logoColor=black)
-![Django](https://img.shields.io/badge/Django-%23092E20?style=flat&logo=django)
 ![Angular](https://img.shields.io/badge/Angular-%230F0F11?style=flat&logo=angular)
-![BootStrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat&logo=bootstrap&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E?style=flat&logo=nestjs&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325?style=flat&logo=jest&logoColor=white)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
@@ -67,28 +62,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <p align="left" style="display: inline-block; width: 48%; vertical-align: top; margin: 0;">
-    
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhoanS5&show_icons=true&theme=dark&hide_rank=true&count_private=true)
-  </p>
-  <p align="right" style="display: inline-block; width: 48%; vertical-align: top; margin: 0;">
-    
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JhoanS5&theme=dark)
-  </p>
-  <p align="right" style="display: inline-block; width: 48%; vertical-align: top; margin: 0;">
-    
-  ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=JhoanS5&layout=compact&theme=dark)
-  </p>
-</div>
-
----
-
 ##
 - Credits: JhoanS5
-- Last Edited On: 22/05/2025
+- Last Edited On: 05/12/2025
 
 
 
